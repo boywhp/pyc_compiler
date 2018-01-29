@@ -15,4 +15,8 @@ a custom C like script language compiler toy implemented by pure Python!
     c = create_list(1+a*5);
     if (a == 0) a+= 1;    
     b += -1;
-    printf("%d %d %d\n", a, b, len(c));
+    printf("%d %d %d\n", a, b, len(c));
+
+# screenshot
+
+![image](https://github.com/boywhp/pyc_compiler/blob/master/compiler.PNG)
